@@ -1,6 +1,14 @@
 # CODERSTORE APP
 
-**Demo App:** https://coder-store-app-by-baobao.netlify.app/login
+**Demo App:** https://coder-store-app-by-baobao.netlify.app
+
+**Geting Started**
+- Clone the project, then run
+```
+$ npm install
+```
+- Run ````npm run dev```` to start the ````json-server```` on port 5000.
+- Run ````npm start```` to start the React app.
 
 **Description:**
 - Firstly, User must login by declare your username to access Store
@@ -17,4 +25,4 @@
 
 **Using:** ReactJS, Material UI, React Router
 
-**Responsive web desing:** Multiple screen sizes for Mobile, Tablet, Laptop, PC
+**Responsive web design:** Multiple screen sizes for Mobile, Tablet, Laptop, PC
